@@ -1,0 +1,32 @@
+.text-foodmap {
+    line-height: 100vh;
+    margin: 0;
+}
+
+.food-image{
+  display: inline-block;
+}
+img.food-img {
+    display: inline-block;
+    height: 25vh;
+    width: 30vw;
+}
+
+
+
+.mb-0 {
+  margin-bottom: 0;
+}
+
+.mt-0 {
+  margin-top: 0;
+}
+
+#food-container {
+    min-height: 20vh;
+}
+
+img.modal-img {
+  height: 25vh;
+  width: 55vw;
+}
